@@ -3,7 +3,7 @@
 // Read more about the API here: https://developers.themoviedb.org/
 
 const API_URL = 'https://api.themoviedb.org/3/';
-const API_KEY = '716b3f0b5027135ac51ac9d6da4b4698';
+const API_KEY = 'API_KEY_GOES_HERE';
 const IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/';
 // Sizes: w300, w780, w1280, original
 const BACKDROP_SIZE = 'w1280';
